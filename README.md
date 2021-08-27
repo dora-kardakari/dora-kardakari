@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dora-kardakari
-- 🌱 I’m currently learning Android development
+- 🌱 I’m a web developer and I'm currently learning Android development
 - 📫 How to reach me kardakari.d@gmail.com
 
 <!---
